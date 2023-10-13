@@ -84,4 +84,4 @@ JOIN suspect_rider_names AS u ON t1.last_name=u.last_name ;
 
 --11 names from employees and suspected rider names. 
 
-It looks like they have the same last name!
+It looks like they have the same last names!
