@@ -9,7 +9,7 @@ location= Newyork
 Latitude=-74.997 to -74.9968
 Longitude= 40.5 to 40.6 
 
-1. We cheack during that time any car that was in that area; 
+1. We check during that time any car that was in that area; 
 
 SELECT * FROM vehicle_location_histories AS vlh
 WHERE
